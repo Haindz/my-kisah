@@ -5,6 +5,7 @@ export default function Home() {
     <main className='flex min-h-screen flex-col items-center justify-between p-24'>
       <h1 className='text-4xl font-bold'>Halo, ini my project vercel saya!</h1>
       <p className='mt-4'>Berhasil di-deploy lewat git.</p>
+      <p className='mt-4'>When Yh...</p>
     </main>
   );
 }
